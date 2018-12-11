@@ -19,7 +19,11 @@ class App extends Component {
       <div>
         <Container>
           <div>
-            <MDBInput ref="img" label="Ketik nama anda..." />
+            <MDBInput
+              ref="img"
+              label="Ketik nama anda..."
+              style={{ width: "25rem" }}
+            />
             <br />
             <MDBBtn
               color="indigo"

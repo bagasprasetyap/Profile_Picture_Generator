@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "profpic": "profpic-generator",
+    "default": "profpic-generator"
+  }
+}
